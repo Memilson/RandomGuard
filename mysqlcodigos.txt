@@ -1,1 +1,0 @@
-table.execute("ALTER TABLE senhas ADD COLUMN local TEXT")

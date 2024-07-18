@@ -5,7 +5,7 @@ import sqlite3
 
 
 # Conectar com banco de dados
-con = sqlite3.connect("sqlite3.db")
+con = sqlite3.connect("/home/angelo/RandomGuard/sqlite/sqlite3.db")
 table = con.cursor()
 
 # Verificar se a tabela já existe
